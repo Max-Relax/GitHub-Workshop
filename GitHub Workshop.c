@@ -9,6 +9,6 @@
 
 int main(void)
 {
-    printf("Hello GitHub\n");
+    printf("Hello World from main\n");
     return 0;
 }
